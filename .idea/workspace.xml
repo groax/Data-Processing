@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98f35e87-08c2-44b1-96b5-462fab07bb36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_xml_bind_jaxb_api_2_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOA/src/P4/Ovkaart.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data-Processing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Processing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P1/Reiziger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P1/ReizigerDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P1/ReizigerOracleDaompl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P11111old.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/OVChipkaart/OVChipkaart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/OVChipkaart/OVChipkaartDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/OVChipkaart/OVChipkaartSQLiteDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/Reiziger/Reiziger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/Reiziger/ReizigerDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/java/Reiziger/ReizigerSQLiteDaolmpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/recources/Helpers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P2/recources/SQLiteJDBCDriverConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/OVChipkaart/OVChipkaart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/OVChipkaart/OVChipkaartDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/OVChipkaart/OVChipkaartSQLiteDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Producten/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Producten/ProductDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Producten/ProductSQLiteDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Reiziger/Reiziger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Reiziger/ReizigerDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/java/Reiziger/ReizigerSQLiteDaolmpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/recources/Helpers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Processing/P3/recources/SQLiteJDBCDriverConnection.class" beforeDir="false" />
-    </list>
+    <list default="true" id="98f35e87-08c2-44b1-96b5-462fab07bb36" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,39 +31,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DOA/src/P4/hibernate.cfg.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOA/src/P4/hu/nl/hibernate/Log.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOA/src/P4/hu/nl/hibernate/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="n#!!doc;n#main#0;n#Main#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -191,15 +127,7 @@
               <item name="Data-Processing" type="462c0819:PsiDirectoryNode" />
               <item name="DOA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="P4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Processing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Processing" type="462c0819:PsiDirectoryNode" />
-              <item name="DOA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="P4" type="462c0819:PsiDirectoryNode" />
-              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="P4 + P5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Processing" type="b2602c69:ProjectViewProjectNode" />
@@ -287,16 +215,15 @@
       <workItem from="1559739031697" duration="1703000" />
       <workItem from="1559741559196" duration="11060000" />
       <workItem from="1560273749336" duration="5976000" />
-      <workItem from="1560292627581" duration="1099000" />
+      <workItem from="1560292627581" duration="1476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19838000" />
+    <option name="totallyTimeSpent" value="20215000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -307,7 +234,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
